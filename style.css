@@ -11,6 +11,10 @@
     font-family: 'Poppins', sans-serif;
 
 }
+body{
+    overflow-x:hidden ;
+
+}
 .container{
     background-color: #F7F8FA;
     width: 1600px;
